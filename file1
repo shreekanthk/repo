@@ -1,0 +1,1 @@
+Add Java to the Windows Path. Step 1: Load the System Properties. Step 2: Find the Advanced Tab in the Properties Window. Click Environmental Variables. Step 3: Scroll down in the System variables and find the PATH variable. Select the PATH variable and click the Edit button. Step 4: Add the Java installation path to 
